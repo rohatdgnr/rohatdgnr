@@ -14,12 +14,6 @@ I wish you continued success, and I hope you achieve the best in every step of y
   </a>
 </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rohatdo%C4%9Faner/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="left">
