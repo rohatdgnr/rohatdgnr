@@ -21,9 +21,6 @@ I continue to improve myself every day, and I firmly believe that each step I ta
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/rohatdgnr/count.svg?"  />
-</div>
 
 ###
 
