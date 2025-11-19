@@ -1,7 +1,7 @@
 <img src ="rd.png"/>
 Hello,
 
-I am Rohat Doğaner.It's truly impressive that you have a solid foundation in electronic communication technology and a passionate interest in software development! I commend your efforts in advancing yourself through education, particularly in gaining experience in technologies like Java, Spring-Boot, and SQL through Patika.dev. Additionally, your commitment to continuous learning and staying updated with the latest advancements is crucial for a successful career..
+I am Rohat Doğaner.It's truly impressive that you have a solid foundation in electronic communication technology and a passionate interest in software development! I commend your efforts in advancing yourself through education, particularly in gaining experience in technologies like Java, Spring-Boot, and SQL through Patika.dev. Additionally, your commitment to continuous learning and staying updated with the latest advancements is crucial for a successful career.
 
 Your active involvement in the software realm and effective participation in projects are highly valuable. This not only facilitates your personal growth but also strengthens your collaboration skills and communication abilities.
 
